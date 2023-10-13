@@ -1,5 +1,5 @@
 # Chatbot
-Project Title: Museum Customer Interaction Chatbot
+Museum Customer Interaction Chatbot
 
 Overview:
 This project is an AI-powered chatbot designed to enhance customer interactions at a local zoo. The chatbot, built using Python and OpenAI's GPT-3 ChatGPT model, offers around-the-clock support for zoo visitors, addressing common issues they may face.
